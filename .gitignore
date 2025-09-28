@@ -1,0 +1,19 @@
+# Archivos de compilación
+/target/
+*.class
+
+# Configuración local
+application.properties
+application.yml
+
+# Variables de entorno
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.iml
